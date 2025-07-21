@@ -3,7 +3,7 @@
 - 🧠 Computer Science Student </br>
 - 🌱 Learning and improving DSA and problem solving skills </br>
 - 🫀 Love experimenting with data and models </br>
-- 📬 How to reach me: evxsingh@gamil.com </br>
+- 📬 How to reach me: evxsingh@gmail.com </br>
 
 
 ## 🏆 GitHub Trophies
